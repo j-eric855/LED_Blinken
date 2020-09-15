@@ -9,7 +9,7 @@
 #define roteLED_2 3   // pin 3 wird als rote LED deklariert
 #define roteLED_3 4   // pin 4 wird als rote LED deklariert
 #define roteLED_4 5   // pin 5 wird als rote LED deklariert
-#define Laufzeit 150  // Verzögerung in ms zwischen den LEDs wir eingestellt
+#define Laufzeit 150  // Verzögerung in ms zwischen den LEDs wird eingestellt
 
 void setup()
 {
